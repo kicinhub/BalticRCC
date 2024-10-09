@@ -1,0 +1,5 @@
+From the visualized data, it is evident that the imbalance fluctuates significantly over time, the implementation of activation measures appears to help with stabilizing the system.
+
+The upward activations seem to be more effective, leading to quicker reduction in negative imbalance levels, suggesting a well-coordinated response to excess of energy in the system. In contrast, downward activations seem to be less consistent with controlling energy surplus. There are several instances where, despite the downward activation taken, the system remains in positive imbalance for a prolonged period before successfully managing energy surplus. 
+
+Overall, while the activation measures do improve the energy balance, there seems to be a stronger, more immediate response to negative imbalances compared to positive ones.
